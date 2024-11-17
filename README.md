@@ -1,1 +1,1 @@
-[my-logo](https://github.com/akin-holo/image-preview/blob/main/favicon.png)
+[my-logo](https://github.com/akin-holo/image-preview/blob/main/logo.png?raw=true)
